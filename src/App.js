@@ -1,9 +1,10 @@
 import './App.scss';
+import Steps from './Components/Main/Steps';
 
 function App() {
   return (
     <div className="App">
-      <h1>Pakistan</h1>
+      <Steps />
     </div>
   );
 }

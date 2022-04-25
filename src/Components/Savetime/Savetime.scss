@@ -1,0 +1,36 @@
+@media only screen and(min-width: 1024px) {
+    .con {
+        width: 100%;
+        background-color: rgb(116, 34, 116);
+    }
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 15px;
+    font-size: x-large;
+}
+
+.paragraph {
+    color: white;
+    text-align: center;
+    font-size: medium;
+}
+
+.Text_Style {
+    text-decoration-style: none;
+    text-align: center;
+    color: forestgreen;
+}
+
+.Bott {
+    color: white;
+    padding: 15px;
+    background-color: rgb(82, 4, 82);
+}
+
+.row {
+    margin-bottom: 2rem;
+}

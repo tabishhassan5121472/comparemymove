@@ -6,17 +6,18 @@ import Header from './Components/Header/Header';
 import HeaderTop from './Components/Header/HeaderTop';
 import Navbar1 from './Components/Header/Navbar1';
 import Panel from './Components/Panel/Panel';
-import Main from './Main';
+import Savetime from './Components/Savetime/Savetime';
+import Steps from './Components/Steps/steps';
 
-function App() {
-  return (
-    <div>
-      < HeaderTop />
-      <Navbar1 />
-      <Main />
-      <Footer />
-    </div>
-  );
+export default function Main() {
+    return (
+        <div>
+            <Savetime />
+            <Steps />
+            < About />
+            <Guides />
+            <Panel />
+            <Asseen />
+        </div>
+    )
 }
-
-export default App;

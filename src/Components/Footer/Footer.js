@@ -108,7 +108,7 @@ function Footer() {
                                     </span>
                                     <ul>
                                         <li class="nav-footer__item nav-footer__item--lv-2">
-                                            <a href="" class="nav-footer__item__link trk-nav-footer-lv-2">
+                                            <a href="/" class="nav-footer__item__link trk-nav-footer-lv-2">
                                                 Our Services
                                             </a>
                                         </li>
@@ -183,9 +183,9 @@ function Footer() {
                             <div class="site-footer__social-icons">
                                 <a href="/" class="facebook" target="_blank" rel="nofollow noreferrer">
                                     Facebook</a>
-                                <a href="https://twitter.com/comparemymove" class="twitter" target="_blank" rel="nofollow noreferrer">
+                                <a href="/" class="twitter" target="_blank" rel="nofollow noreferrer">
                                     Twitter</a>
-                                <a href="" class="linkedin" target="_blank" rel="nofollow noreferrer">
+                                <a href="/" class="linkedin" target="_blank" rel="nofollow noreferrer">
                                     Linkedin</a>
 
                             </div></div></div></div></footer>

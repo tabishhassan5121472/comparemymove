@@ -1,3 +1,6 @@
+@charset "UTF-8";
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 html {
     -webkit-text-size-adjust: 100%;
     line-height: 1.15
@@ -1091,6 +1094,7 @@ pre {
 }
 
 .tick-bullets ul li:before {
+    speak: never;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     content: "";
@@ -1130,6 +1134,7 @@ pre {
 }
 
 .ticklist li:before {
+    speak: never;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     content: "";
@@ -1165,6 +1170,7 @@ pre {
 }
 
 .crosslist li:before {
+    speak: never;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     content: "";
@@ -4750,6 +4756,8 @@ li.blocks--borderIcon .blocks__block {
     .bg-img--boat.bg-img--boat:before {
         border-width: 13px
     }
+
+    .bg-img--boat.bg-img--boat:after {}
 }
 
 @media (max-width:73.5rem) {
@@ -5621,6 +5629,7 @@ li.guide-tile {
 }
 
 .guide-tile__link:after {
+    speak: never;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     content: "";
@@ -5706,6 +5715,7 @@ li.guide-tile {
 
 .links-list__accordion__switch--close:after,
 .links-list__accordion__switch--open:after {
+    speak: never;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     display: none;
@@ -5764,6 +5774,7 @@ li.guide-tile {
 }
 
 .links-list__list li a:before {
+    speak: never;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     content: "";

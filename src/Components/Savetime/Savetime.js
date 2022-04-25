@@ -1,4 +1,3 @@
-import react from "react";
 import image1 from '../../assets/Savetime/1.png';
 import image2 from '../../assets/Savetime/2.png';
 import image3 from '../../assets/Savetime/3.png';
@@ -19,7 +18,7 @@ function Savetime() {
                     <Row className="row">
                         <Col className="Col_Style">
                             <Card>
-                                <a href="#" class="a_tag">
+                                <a href="/" class="a_tag">
                                     <img src={image1} alt="" style={{ width: 100, paddingTop: 39, marginLeft: 75 }} />
                                     <Card.Body>
                                         <Card.Title className="Text_Style">Conveyancing</Card.Title>
@@ -29,7 +28,7 @@ function Savetime() {
                         </Col>
                         <Col className="Col_Style">
                             <Card>
-                                <a href="#">
+                                <a href="/">
                                     <img src={image2} alt="" style={{ width: 100, paddingTop: 20, marginLeft: 75 }} />
                                     <Card.Body>
                                         <Card.Title className="Text_Style">Surveying</Card.Title>
@@ -39,7 +38,7 @@ function Savetime() {
                         </Col>
                         <Col className="Col_Style">
                             <Card>
-                                <a href="#">
+                                <a href="/">
                                     <img src={image3} alt="" style={{ width: 100, paddingTop: 2, marginLeft: 75 }} />
                                     <Card.Body>
                                         <Card.Title className="Text_Style">Removals</Card.Title>
@@ -49,7 +48,7 @@ function Savetime() {
                         </Col>
                         <Col className="Col_Style">
                             <Card>
-                                <a href="#">
+                                <a href="/">
                                     <img style={{ width: 100, paddingTop: 28, marginLeft: 75 }} src={image4} alt="" />
                                     <Card.Body>
                                         <Card.Title className="Text_Style">Storage</Card.Title>

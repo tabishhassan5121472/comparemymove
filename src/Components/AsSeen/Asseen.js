@@ -18,15 +18,15 @@ export default function Asseen() {
             <section class="b2b-services-header"><div class="container"><div class="b2b-services-header__content"><h2 class="b2b-services-header__heading">
                 Win Work With Compare My Move</h2><p class="b2b-services-header__subheading">
                     Are you a reputable conveyancing, removal, surveying or storage company? Join our network to start growing your business</p></div><div class="b2b-services-header__buttons">
-                    <a href="" class="b2b-services-header__buttons__button js-b2b-swapping" data-btob-type="conveyancing">
+                    <a href="/" class="b2b-services-header__buttons__button js-b2b-swapping" data-btob-type="conveyancing">
                         <img src={image6} alt="Conveyancing" class="b2b-services-header__buttons__button__img ls-is-cached lazyloaded" width="150" height="134" />Conveyancing
                     </a>
-                    <a href="" class="b2b-services-header__buttons__button js-b2b-swapping" data-btob-type="removals">
+                    <a href="/" class="b2b-services-header__buttons__button js-b2b-swapping" data-btob-type="removals">
                         <img src={image7} alt="Removals" class="b2b-services-header__buttons__button__img ls-is-cached lazyloaded" width="150" height="134" />Removals
                     </a>
-                    <a href="" class="b2b-services-header__buttons__button js-b2b-swapping" data-btob-type="surveying">
+                    <a href="/" class="b2b-services-header__buttons__button js-b2b-swapping" data-btob-type="surveying">
                         <img src={image8} data-src="/assets/img/svg/papersheets-surveying.svg" alt="Surveying" class="b2b-services-header__buttons__button__img ls-is-cached lazyloaded" width="150" height="113" />Surveying</a>
-                    <a href="" class="b2b-services-header__buttons__button js-b2b-swapping" data-btob-type="storage">
+                    <a href="/" class="b2b-services-header__buttons__button js-b2b-swapping" data-btob-type="storage">
                         <img src={image9} data-src="" alt="Storage" class="b2b-services-header__buttons__button__img ls-is-cached lazyloaded" width="150" height="150" />Storage
                     </a></div></div></section>
             <section class="pad--shrink mrgn--none align--center">

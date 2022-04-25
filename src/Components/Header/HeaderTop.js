@@ -1,7 +1,5 @@
 import React from 'react'
 import './HeaderTop.scss';
-import { Navbar, Container, Button } from 'react-bootstrap'
-import { AiOutlineSearch } from 'react-icons/ai';
 import logo from '../../assets/logo.png'
 
 function HeaderTop() {
@@ -11,7 +9,7 @@ function HeaderTop() {
                 <div class="container">
                     <div class="site-header__wrap">
                         <a href="https://www.comparemymove.com/" class="site-header__logo">
-                            <img src={logo}>
+                            <img src={logo} alt="">
 
                             </img>
                         </a>

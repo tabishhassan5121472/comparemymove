@@ -1677,6 +1677,34 @@ p.large-copy:first-of-type {
     }
 }
 
+.area--b2b .container:not(.b2b-success-stories .container, .bubble-cta .container, .cta-featurestrip .container) {
+    max-width: 73.75rem
+}
+
+.area--b2b .container__limit {
+    max-width: 60rem
+}
+
+.area--b2b .container__content {
+    max-width: 47.25rem
+}
+
+.area--b2b {
+    padding: 2rem
+}
+
+@media (max-width:88.75rem) {
+    .area--b2b {
+        padding: 1.5rem
+    }
+}
+
+@media (max-width:43rem) {
+    .area--b2b {
+        padding: 0
+    }
+}
+
 .nav-footer {
     display: -webkit-flex;
     display: -ms-flexbox;
